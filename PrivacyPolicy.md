@@ -1,147 +1,212 @@
-# Privacy Policy for Dawaflows
+# Privacy Policy for DawaFlows
 
-**Last updated:** April 29, 2026
+**Last updated: August 26, 2026**
 
-## 1. Governing Law & Scope
+DawaFlows ("DawaFlows", "we", "us", or "our") is a product developed and operated by **AIMA Technologies**.
 
-This Privacy Policy describes how **Dawaflows** ("Company", "We", "Us", "Our") collects, uses, and discloses your information when you use our mobile application and related services ("Service").
+This Privacy Policy explains how we collect, use, store, protect, and delete information when you use the DawaFlows mobile application and related services (the "Service").
 
-**Primary governing law:** Algerian Law No. 18-07 on the Protection of Natural Persons with Regard to Processing of Personal Data.
+DawaFlows is a business platform intended for pharmacy users to connect and interact with other entities through the Service.
 
-**For users in the European Economic Area (EEA), United Kingdom, or Switzerland:** We additionally comply with the GDPR / UK GDPR as described in Section 12.  
-**For California residents:** See Section 13.
+## 1. Information We Collect
 
-By creating an account or actively using the Service, you acknowledge this Policy. We obtain your explicit consent where required by law (e.g., for location tracking, marketing emails).
+We collect only the information necessary to create and operate your account and provide the Service.
 
-## 2. Definitions
+### 1.1 Information You Provide
 
-| Term | Meaning |
-|------|---------|
-| **Personal Data** | Any information relating to an identified or identifiable individual. |
-| **Usage Data** | Automatically collected data (e.g., IP address, device type, page visits). |
-| **Account** | Your unique registration for the Service. |
-| **Service** | The Dawaflows application. |
-| **You** | The user of the Service. |
- 
+Depending on the features you use, we may collect:
 
-## 3. Types of Data We Collect
+* First and last name
+* Email address
+* Phone number
+* Account credentials
+* Information required to create and maintain your DawaFlows account
+* Information that you voluntarily provide when contacting support or using features of the Service
 
-### A. Personal Data You Provide
-- Email address  
-- First and last name  
-- Phone number  
-- Postal address (city, state, ZIP, country)
+The current version of DawaFlows does **not** require users to provide or upload a Commercial Registration (RC) document during registration.
 
-### B. Usage Data (Automatically Collected)
-IP address, browser type/version, pages visited, time/date, time spent, unique device identifiers, mobile device type, operating system.
+The current version of DawaFlows does **not** require users to provide their precise location or grant location permission.
 
-### C. Location Information
-We collect precise GPS or network-based location **only after you grant explicit permission** via your device settings. You can disable this at any time.
+### 1.2 Device and Technical Information
 
-## 4. Legal Bases for Processing (GDPR/UK GDPR)
+When you use the Service, certain technical information may be processed as necessary for security, reliability, and technical operation, such as:
 
-For EEA/UK users, we process your Personal Data only under one of these legal bases:
+* Device type and model
+* Operating system and operating system version
+* Application version
+* IP address
+* Network and connectivity information
+* Technical error and diagnostic information
+* Push notification/device token information, where required to deliver notifications
 
-| Purpose | Legal Basis |
-|---------|-------------|
-| To provide the Service and manage your Account | Contract performance |
-| To send security updates or respond to support requests | Legitimate interest |
-| Location-based features | Explicit consent |
-| Marketing emails or special offers | Explicit consent |
-| Analytics and service improvement | Legitimate interest or consent |
+We do not use this information to track users for advertising purposes.
 
-You may withdraw consent at any time without affecting the lawfulness of processing before withdrawal.
+## 2. How We Use Information
 
-## 5. How We Use Your Personal Data
+We use information only for purposes necessary to operate and improve DawaFlows, including:
 
-We use your data only for the following purposes:
-- To operate and maintain the Service  
-- To manage your Account and fulfill your requests  
-- To contact you with service-related notices (e.g., security updates)  
-- To provide location-based features (with consent)  
-- To analyze usage trends and improve the Service  
-- To comply with legal obligations
+* Creating and managing user accounts
+* Authenticating users
+* Providing the application's features and services
+* Communicating with users regarding their account and the Service
+* Sending service-related notifications
+* Maintaining application security
+* Detecting and preventing unauthorized access, fraud, or misuse
+* Diagnosing technical problems and improving application reliability
+* Responding to support requests
+* Complying with applicable legal obligations
 
-No automated decision-making or profiling is performed.
+We do not sell personal information to third parties.
 
-## 6. Data Retention Periods
+We do not use personal information for targeted advertising.
 
-We retain Personal Data only as long as necessary for the purposes stated. Retention periods are as follows:
+We do not use personal information for cross-app or cross-website tracking.
 
-| Data Category | Retention Period |
-|---------------|------------------|
-| Account information | Duration of your account + up to 12 months after closure (for post-termination issues) |
-| Customer support tickets & correspondence | 12 months from ticket closure |
-| Chat transcripts | 6 months for quality assurance |
-| Usage statistics (aggregated) | 12 months |
-| Server logs (IP addresses, access times) | 6 months |
+## 3. Location Information
 
-After these periods, data is securely deleted or anonymized. Residual copies in encrypted backups are deleted within 30 days of the retention expiry. Anonymized data may be kept indefinitely for research.
+The current version of DawaFlows does **not request or collect the user's precise device location**.
 
-## 7. Data Sharing & Third Parties
+Location Services are not required to create an account or use the Service.
 
-We share your Personal Data only in the following circumstances:
+## 4. Documents and Photos
 
-- **With Service Providers** (list updated at `[link to your subprocessor page]`):  
-  - Hosting: [e.g., AWS, region eu-west-1]  
-  - Analytics: [e.g., PostHog, self-hosted]  
-  - Support tools: [e.g., Zendesk]  
-- **For business transfers** (merger, acquisition, or asset sale) – you will receive notice  
-- **With Affiliates** – they must honor this Policy  
-- **With business partners** – only for joint services you explicitly request  
-- **With your consent** – for any other purpose  
-- **For legal reasons** – to comply with law, protect rights, prevent fraud, or ensure public safety
+The current version of DawaFlows does **not require users to scan, photograph, or upload their Commercial Registration (RC) document as part of account registration**.
 
-We do not sell your Personal Data to third parties.
+If a future version introduces document or image functionality that requires access to the camera, photo library, or files, this Privacy Policy will be updated before that functionality is introduced.
 
-## 8. International Data Transfers
+## 5. Push Notifications
 
-Your information may be transferred to and processed in countries other than Algeria (e.g., EU-based servers). Where required by law, we ensure appropriate safeguards (e.g., Standard Contractual Clauses) are in place. You may request a copy of these safeguards by contacting our DPO.
+DawaFlows may use Apple's push notification services to send service-related notifications.
 
-## 9. Your Rights (General)
+To deliver push notifications, the application may process a device/app notification token associated with your installation.
 
-You have the right to:
-- **Access** your Personal Data  
-- **Correct** inaccurate data  
-- **Delete** your Personal Data (subject to legal obligations)  
-- **Restrict** or **object** to processing  
-- **Withdraw consent** at any time  
-- **Lodge a complaint** with a supervisory authority
+Push notifications are used for service-related purposes and are not used for advertising tracking.
 
-To exercise these rights, sign in to your Account settings or email `privacy@aimatechs.com`. We will respond within 30 days.
+You may control notification permissions through your device settings.
 
-## 10. How to Delete Your Personal Data
+## 6. Tracking and Advertising
 
-You may delete your data by:
-- Using the account deletion feature within the Service  
-- Contacting us at `privacy@aimatechs.com`  
+DawaFlows does **not track users for advertising purposes**.
 
-We will confirm deletion within 7 days. Note that we may retain data if required by law (e.g., financial records for tax purposes) – we will notify you of such retention.
+We do not:
 
-## 11. Security of Your Personal Data
+* Sell personal information to advertisers or data brokers.
+* Link personal information collected through DawaFlows with third-party data for targeted advertising.
+* Use advertising identifiers for targeted advertising.
+* Track users across other companies' apps or websites for advertising purposes.
 
-We implement appropriate technical and organizational measures, including: 
-- **Access controls** (least privilege, multi-factor authentication for staff)  
-- **Regular security testing** and breach response procedures
+DawaFlows therefore does not request permission through Apple's App Tracking Transparency framework for advertising or cross-app tracking.
 
-While no system is 100% secure, we promptly investigate any suspected breach and notify affected users and authorities as required by law.
+## 7. Sharing of Information
 
-## 12. Children’s Privacy
+We may share or disclose information only when necessary to provide and protect the Service.
 
-Our Service is not directed to anyone under the age of **4** (or older if required by local law). We do not knowingly collect Personal Data from children under 4. If you believe your child has provided us with data, contact us at `privacy@aimatechs.com`. We will delete it promptly.
+This may include:
 
-If we need parental consent under applicable law, we will obtain verifiable consent before collecting data.
+### Service Providers
 
- 
+We may use trusted service providers that process information on our behalf, such as infrastructure, hosting, authentication, communication, security, or notification providers.
 
-## 13. Changes to This Privacy Policy
+Such providers may access information only to perform services on our behalf and are required to protect the information appropriately.
 
-We may update this Policy from time to time. Material changes will be notified via email and a prominent notice in the Service at least 30 days in advance. The “Last updated” date will be revised. Continued use after notice constitutes acceptance of changes.
+### Legal Requirements
 
-## 14. Contact Us
+We may disclose information when required by applicable law, regulation, legal process, or valid governmental request.
 
-For any questions or privacy requests:
+### Security and Protection
 
-- Email: `privacy@aimatechs.com`     
+We may disclose information when reasonably necessary to protect the rights, security, property, or users of DawaFlows, AIMA Technologies, or others.
 
-You may also contact us via the support section of the Dawaflows application.
+We do not sell personal information.
+
+We do not share personal information with third parties for their own advertising purposes.
+
+## 8. Third-Party Services
+
+DawaFlows may rely on third-party technical services required to operate certain application functionality, such as push notifications, hosting, authentication, or infrastructure.
+
+Where a third party processes personal information on our behalf, we require appropriate protection of that information consistent with this Privacy Policy and applicable requirements.
+
+We do not authorize third-party services to use DawaFlows user information for their own advertising or cross-app tracking purposes.
+
+## 9. Data Retention
+
+We retain personal information only for as long as reasonably necessary to provide the Service, maintain account functionality, meet security requirements, resolve disputes, and comply with applicable legal obligations.
+
+When information is no longer required, we take reasonable measures to delete it or anonymize it.
+
+Some information may need to be retained for a longer period when required by law or necessary to establish, exercise, or defend legal claims.
+
+## 10. Account Deletion and Data Deletion
+
+Users can request deletion of their DawaFlows account and associated personal information.
+
+Account deletion can be initiated through the account deletion functionality available in the application.
+
+Users may also contact us at:
+
+**[privacy@aimatechs.com](mailto:privacy@aimatechs.com)**
+
+When an account is deleted, we will delete or anonymize associated personal information unless retention is required or permitted by applicable law.
+
+Certain information may be retained when necessary for legal, security, fraud-prevention, or regulatory purposes.
+
+## 11. Your Privacy Rights
+
+Depending on applicable law, you may have rights regarding your personal information, including:
+
+* Accessing your personal information
+* Correcting inaccurate information
+* Requesting deletion of your information
+* Requesting restriction of certain processing
+* Objecting to certain processing
+* Withdrawing consent where processing is based on consent
+* Requesting information about how your personal information is processed
+
+To exercise your rights, contact:
+
+**[privacy@aimatechs.com](mailto:privacy@aimatechs.com)**
+
+We may need to verify your identity before processing certain requests.
+
+## 12. Security
+
+We use reasonable technical and organizational measures designed to protect personal information against unauthorized access, alteration, disclosure, loss, or destruction.
+
+These measures may include access controls, authentication mechanisms, secure communications, and appropriate security practices for our systems.
+
+However, no electronic transmission or storage system can be guaranteed to be completely secure.
+
+## 13. International Data Processing
+
+Depending on the infrastructure and service providers used to operate DawaFlows, information may be processed or stored in countries outside Algeria.
+
+Where required by applicable law, we take appropriate measures to protect personal information when it is transferred internationally.
+
+## 14. Children's Privacy
+
+DawaFlows is intended for professional adult users and is not directed toward children.
+
+We do not knowingly collect personal information from children.
+
+If we become aware that personal information has been collected from a child in circumstances where such collection is not permitted, we will take reasonable steps to delete that information.
+
+## 15. Changes to This Privacy Policy
+
+We may update this Privacy Policy when our Service, data practices, or legal requirements change.
+
+When we make material changes, we will update the "Last updated" date and, where appropriate, provide additional notice through the application or other appropriate means.
+
+## 16. Contact Us
+
+For questions, concerns, privacy requests, or requests concerning your personal information, please contact:
+
+**AIMA Technologies**
+**Email:** [privacy@aimatechs.com](mailto:privacy@aimatechs.com)
+
+You may also contact us through the support functionality available within the DawaFlows application.
+
+---
+
+**DawaFlows**
+A product of **AIMA Technologies**
